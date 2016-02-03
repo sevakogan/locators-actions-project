@@ -7,4 +7,4 @@
  * TestNG
  * Selenium
 
- [Jean-francois Nepton](https://github.com/sqaSeleniumBC)
+ [Seva Kogan](https://github.com/sqaSeleniumBC)
